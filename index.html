@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ishita Agarwal - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="header">
+    <div class="container">
+        <div class="sidebar sidebargo">
+            <nav>
+                <ul id="sidemenu"> <b>
+                    <br>
+                    <li> <a href = "#header"> Home </a></li>
+                    <li> <a href = "#about"> About </a></li>
+                    <li> <a href = "#blog"> Blog </a></li>
+                    <li> <a href = "#contact"> Contact Me </a></li>
+                </ul> </b>
+            </nav>
+        </div>
+        <div class="main">
+            <div class="hamburger">
+                <img class="ham" src="ham.png" alt="" width="20">
+                <img class="cross" src="cross.png" alt="" width="20">
+            </div>
+            <span id="element"></span>
+            <div class="infoContainer">
+                <div class="devInfo">
+                    <h3>Hi! I am <span class="hello"></span></h3>
+                    <div class="name"> <span>Ishita Agarwal</span></div>
+                    <div class="about"> Programmer, Web Developer, Data Analyst </div>
+                    <div class="buttons">
+                        <a href="resume.txt" target="_blank"> <button class="btn"> Download Resume </button></a>
+                        <a href="https://superiorishitaagarwal.wordpress.com/"> <button class="btn"> Visit Blog </button></a>
+                        <a href="#contact"> <button class="btn"> Contact Me </button></a>
+                    </div>
+                </div>
+                <div class="devPic">
+                    <img src="dev.png.png" alt="Ishita Agarwal">
+                </div>
+            </div>
+        </div>
+    </div></div>
+
+    <!---<script src="https://unpkg.com/typed.js@2.0.15/dist/typed.umd.js"></script>
+    <script>
+        var typed = new Typed('hello', {
+          strings: ['Ishita Agarwal', 'Programmer', 'Web Developer', 'Data Analyst'],
+          typeSpeed: 50,
+          backSpeed: 50,
+          loop: true
+        });
+      </script>--->
+
+
+
+
+
+
+
+    <!-- ------------------about-------------------- -->
+    <div id="about">
+        <div class="container">
+            <div class="row">
+                <div class="about-col-1">
+                    <img src="img2.jpg" alt="Working Woman">
+                </div>
+                <div class="about-col-2">
+                    <h1 class="sub-title">About Me</h1>
+                    <p>A straightforward girl from the Pink City of India. Currently pursuing the course of BTech in Computer Science from JK Lakshmipat University. I am a Programmer, Web Developer, and a Data Analyst, with specialisations in Python, JAVA, and Excel. And I love reqading novels. I am also passionate for astronomy and photography.</p>
+                    
+                    <div class="tab-title">
+                        <p class="tab-links active-link" onclick="opentab('skills')" >Skills</p>
+                        <p class="tab-links" onclick="opentab('education')">Education</p>
+                        <p class="tab-links" onclick="opentab('hobbies')">Hobbies</p>
+                    </div>
+                    <div class="tab-contents active-tab" id="skills" >
+                        <ul>
+                            <li><span>Web Development</span><br>Full Stack Web Development
+                            <div class="skl1"></div></li>
+                            <br>
+                            <li><span>Programming</span><br>Creating software and apps using Python and JAVA
+                            <div class="skl2"></div></li>
+                            <br>
+                            <li><span>Efficient in</span><br>Microsoft Excel, Powerpoint, and Word
+                            <div class="skl3"></div></li>
+                        </ul>
+                    </div>
+                    <div class="tab-contents" id="education">
+                        <ul>
+                            <li><span>Apr 2015 - Apr 2020</span><br>Secondary Schooling from Jaipuria Vidyalaya, Jaipur<br>Graduated with 92.8%</li>
+                            <br>
+                            <li><span>Apr 2020 - July 2022</span><br>Senior Secondary Schooling from Jaipuria Vidyalaya, Jaipur<br>Graduated with 91.8%</li>
+                            <br>
+                            <li><span>Aug 2022 - Present</span><br>BTech (CSE) from JK Lakshmipat University, Jaipur</li>
+                        </ul>
+                    </div>
+                    <div class="tab-contents" id="hobbies">
+                        <ul>
+                            <li><span>Reading</span></li>
+                            <li><span>Writing</span></li>
+                            <li><span>Astronomy</span></li>
+                            <li><span>Photography</span></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+    <!-- -----------------------Blog------------------------- -->
+    <div id="blog">
+    <div class="blogContainer">
+        <h1> Blogs By Ishita </h1>
+        <div class="blogItem">
+            <h2>Hello All!</h2>
+            <p>How are you all? Welcome to my corner of the internet! I’m so glad you found your way here. This is the space where I share my musings, adventures, and lessons learned as I navigate through this wild thing we call life. From delving into the depths of personal growth, to exploring the world around me, to simply trying to make sense of it all – nothing is off limits. I have much to share with you all. So grab a cup of coffee and stay awhile. Let’s get lost in the words together, and see where they take us. Oh! I completely forgot to introduce myself.</p>
+            <br>
+            <li> This is Ishita Agarwal, a straightforward girl from the Pink City of India. </li>
+            <li> Passionate for Writing, Astronomy, and Photography. </li>
+            <li> And I love reading novels. </li>
+            <li> Currently pursuing BTech from JK Lakshmipat University. </li>
+            <li> I am a programmer, web developer, and a data analyst. </li>
+                <a href="https://superiorishitaagarwal.wordpress.com/"> <button class="btn btn-sm"> Read more </button></a>
+        </div>
+    </div></div>
+
+    <!-- -----------------------Contact------------------------- -->
+    <div id="contact">
+        <div class="container">
+            <div class="contactform">
+                <h1> Contact Me for Work or General Enquiries</h1>
+                <form>
+                    <div class="mb-3">
+                        <label for="clientName" class="form-label">Name</label>
+                        <input type="name" class="form-control" id="clientName" aria-describedby="nameHelp">
+                    </div>
+                    <div class="mb-3">
+                        <label for="clientPhone" class="form-label">Phone Number</label>
+                        <input type="phone" class="form-control" id="clientPhone">
+                    </div>
+                    <div class="mb-3">
+                        <label for="clientEmai1" class="form-label">Email address</label>
+                        <input type="email" class="form-control" id="clientEmai1" aria-describedby="emailHelp">
+                        <div id="emailHelp" class="form-text">We'll never share your personal information with anyone else.</div>
+                    </div>
+                    <div class="mb-3">
+                        <label for="clientEnquiry" class="form-label">Enquiry Brief</label>
+                        <input type="enquiry" class="form-control" id="clientEnquiry" aria-describedby="enquiryHelp">
+                      </div>
+                    <div class="mb-3" id="form-check">
+                      <input type="checkbox" class="form-check-input" id="isclient">
+                      <label class="form-check-label" for="isclient">I want you to work on a project for me.</label>
+                    </div>
+                    <a href="#header"> <button type = "submit" class="btn btn-sm"> Submit </button></a>
+                </form>
+                <br>
+                <div class="row">
+                    <div class="contact-left">
+                        <h2> Contact Me </h2>
+                        <p><i class="fas fa-paper-plane"></i> ishitaagarwal@jklu.edu.in</p>
+                        <p>(+91 78910 63938)</p>
+                        <div class="social-icons">
+                            <a href="https://www.instagram.com/ishitaagarwal._._/"> <button class="bttn"> <img src="insta_logo.jpeg" alt="Instagram"> </button> </a>
+                            <a href="https://www.linkedin.com/in/ishita-agarwal-3992b6249"> <button class="bttn"> <img src="linked_logo.jpeg" alt="Linked In"> </button> </a>
+                            <a href="https://superiorishitaagarwal.wordpress.com/"> <button class="bttn"> <img src="blog_logo.PNG" alt="Blog"> </button> </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<script src="index.js"></script>
+</body>
+</html>
