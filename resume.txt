@@ -25,7 +25,7 @@ Linear Algebra		Experienced
 HOBBIES
 Reading, Writing, Astronomy, Photography
 	
-COURSES
+CERTIFICATIONS
 Oct 2022		Python (Basic) Certificate, HackerRank
 Oct 2022 		Programming For Everybody (Getting Started with Python), University of Michigan | Coursera
 Nov 2022		Python Data Structures, University of Michigan | Coursera
