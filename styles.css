@@ -79,7 +79,7 @@ body{
     justify-content: space-around;
 }
 .devInfo h3 {
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 600;
 }
 
@@ -95,13 +95,13 @@ body{
     font-size: 1.5em;
 }
 .name {
-    font-size: 3em;
+    font-size: 3.5em;
     font-weight: bold;
     font-family: 'Fira Sans', sans-serif;
 }
 
 .about {
-    font-size: 2em;
+    font-size: 1.5em;
 }
 
 .btn {
