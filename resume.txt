@@ -1,21 +1,19 @@
 Ishita Agarwal, Programmer, Web Developer
-C-380, Malviya Nagar, Jaipur, 302017, India, +91 78910 63938, ishitaagarwal@jklu.edu.in
+Jaipur, India, +91 78910 63938, ishitaagarwal@jklu.edu.in
 
-Date of birth                   29.07.2005
-Place of birth                  Jaipur
-Nationality                     Indian 
+Nationality		Indian 
 
-LINKS                        Blog (http://www.superiorishitaagarwal.wordpress.com/)
+LINKS			Blog (http://www.superiorishitaagarwal.wordpress.com/)
 
-PROFILE                 	An aspiring computer science professional and tech enthusiast with a passion for writing, an innovative programmer and web developer striving to make the world a more unified and connected place. A creative thinker adept in software development and working with various data structures. Currently pursuing a Bachelor's degree in Computer Science from JK Lakshmipat University and constantly seeking new opportunities to broaden knowledge and skills. Eager to connect with professionals in the technology field and explore potential internship and job opportunities.
+PROFILE                 An aspiring computer science professional and tech enthusiast with a passion for writing, an innovative programmer and web developer striving to make the world a more unified and connected place. A creative thinker adept in software development and working with various data structures. Currently pursuing a Bachelor's degree in Computer Science from JK Lakshmipat University and constantly seeking new opportunities to broaden knowledge and skills. Eager to connect with professionals in the technology field and explore potential internship and job opportunities.
 
 EDUCATION
-Apr 2015 – Apr 2020    Secondary School, Jaipuria Vidyalaya				Jaipur
-		Graduated with 92.8%
-Apr 2020 – Jul 2022      Senior Secondary School, Jaipuria Vidyalaya			Jaipur
-		Graduated with 91.8%
-Apr 2015 – Apr 2020    BTech (CSE), JK Lakshmipat University				Jaipur
-		Activities: Coordinator | Nakshatra - The Astronomy Club
+Apr 2015 â€“ Apr 2020    	Secondary School, Jaipuria Vidyalaya				Jaipur
+
+Apr 2020 â€“ Jul 2022     Senior Secondary School, Jaipuria Vidyalaya			Jaipur
+
+Apr 2015 â€“ Apr 2020    	BTech (CSE), JK Lakshmipat University				Jaipur
+Activities: Coordinator | Nakshatra - The Astronomy Club
 
 SKILLS
 Python			Experienced
@@ -28,16 +26,16 @@ HOBBIES
 Reading, Writing, Astronomy, Photography
 	
 COURSES
-Oct 2022	Python (Basic) Certificate, HackerRank
-Oct 2022 	Programming For Everybody (Getting Started with Python), University of Michigan | Coursera
-Nov 2022	Python Data Structures, University of Michigan | Coursera
-Feb 2023	Using Python To Access Web Data, University of Michigan | Coursera
-Jan 2023	Crash Course on Python, Google | Coursera
-Dec 2022 	Matrix Algebra For Engineers, The Hong Kong University Of Science and Technology | Coursera
-Feb 2023	Excel Skills For Business: Essentials, Macquarie University | Coursera
-Mar 2023	JAVA (Basic) Certificate, HackerRank
+Oct 2022		Python (Basic) Certificate, HackerRank
+Oct 2022 		Programming For Everybody (Getting Started with Python), University of Michigan | Coursera
+Nov 2022		Python Data Structures, University of Michigan | Coursera
+Feb 2023		Using Python To Access Web Data, University of Michigan | Coursera
+Jan 2023		Crash Course on Python, Google | Coursera
+Dec 2022 		Matrix Algebra For Engineers, The Hong Kong University Of Science and Technology | Coursera
+Feb 2023		Excel Skills For Business: Essentials, Macquarie University | Coursera
+Mar 2023		JAVA (Basic) Certificate, HackerRank
 
 LANGUAGES
-English	Native Speaker
-Hindi	Native Speaker
-Sanskrit	Good working knowledge
+English			Native Speaker
+Hindi			Native Speaker
+Sanskrit		Good working knowledge
